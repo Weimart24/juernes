@@ -1,0 +1,30 @@
+p{
+    color:red;
+}
+h1{
+    color: white;
+    background-color: darkcyan;
+}
+h3{
+    color: mediumorchid;
+}
+#style1{
+    color: sandybrown;
+}
+#parrafo1{
+    color: darkolivegreen;
+}
+#parrafo2{
+    color: purple;
+}
+.color-red{
+    color: yellow;
+}
+body{
+    background-image: url(https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/03/hipertextual-maraton-previo-avengers-endgame-peliculas-marvel-que-ver-antes-su-estreno-2019543598-scaled.jpg?fit=2560%2C1276&quality=50&strip=all&ssl=1);
+    background-size: cover;
+}
+.final{
+    color: ;
+    text-shadow: 0px 0px 9px #ff0000;
+}
